@@ -1,2 +1,2 @@
 # CVIP_python_develpment
-python projects
+simple calculator and randon password generator using python.
